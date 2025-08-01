@@ -1,6 +1,10 @@
 # Pickmylaptop
 Creating an assistant using watson service
 # 💻 PickMyLap
+### 🚀 Demo
+
+> [🔗 View Live Site](https://pragya-04617.github.io/Pickmylap/)
+
 
 **PickMyLap** is a simple and smart web-based assistant that helps users find the perfect laptop based on their needs — whether it's for gaming, work, study, or creative tasks. Built with HTML, CSS, and IBM Watson Assistant, it delivers a fast, interactive experience through chat.
 
@@ -14,3 +18,13 @@ Creating an assistant using watson service
 
 ---
 
+### 🚀 Demo
+
+> [🔗 View Live Site](https://pragya-04617.github.io/Pickmylap/)
+
+*(Make sure GitHub Pages is enabled in Settings → Pages)*
+
+---
+
+   ```bash
+   git clone https://github.com/Pragya-04617/Pickmylap.git
